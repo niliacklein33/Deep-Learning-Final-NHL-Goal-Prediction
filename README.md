@@ -64,4 +64,4 @@ The final selected model is a moderately sized 3-channel CNN with tuned learning
 
 - `notebook.ipynb` – Full analysis and modeling
 - `presentation.pptx` – Project slides
-- `video_presentation.mp4` – Recorded walkthrough
+- https://drive.google.com/file/d/1lBJxMrlE-kFonr0lgFdulPaSgGSqjpwr/view?usp=drive_link – Recorded walkthrough
